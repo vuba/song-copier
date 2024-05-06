@@ -1,0 +1,3 @@
+configuration:
+  file:
+    name: config.json
